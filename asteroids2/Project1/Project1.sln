@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{94DEEB1E-17C5-4F04-BEC6-8100C2927CAD}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\bullet.cpp = ..\..\bullet.cpp
+		..\..\bullet.h = ..\..\bullet.h
+		..\..\driver.cpp = ..\..\driver.cpp
+		..\..\flyingObject.cpp = ..\..\flyingObject.cpp
+		..\..\flyingObject.h = ..\..\flyingObject.h
+		..\..\game.cpp = ..\..\game.cpp
+		..\..\game.h = ..\..\game.h
+		..\..\makefile = ..\..\makefile
+		..\..\point.cpp = ..\..\point.cpp
+		..\..\point.h = ..\..\point.h
+		..\..\rocks.cpp = ..\..\rocks.cpp
+		..\..\rocks.h = ..\..\rocks.h
+		..\..\ship.cpp = ..\..\ship.cpp
+		..\..\ship.h = ..\..\ship.h
+		..\..\uiDraw.cpp = ..\..\uiDraw.cpp
+		..\..\uiDraw.h = ..\..\uiDraw.h
+		..\..\uiInteract.cpp = ..\..\uiInteract.cpp
+		..\..\uiInteract.h = ..\..\uiInteract.h
+		..\..\velocity.cpp = ..\..\velocity.cpp
+		..\..\velocity.h = ..\..\velocity.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4E25588-F9E3-4BEF-BF98-6A9F722030F6}
+	EndGlobalSection
+EndGlobal

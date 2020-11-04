@@ -1,0 +1,168 @@
+﻿  bullet.cpp
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\bullet.cpp(36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\bullet.cpp(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  driver.cpp
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.h(69): error C2039: 'list': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(20): note: see declaration of 'std'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.h(69): error C2143: syntax error: missing ';' before '<'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.h(69): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.h(69): error C2238: unexpected token(s) preceding ';'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.h(70): error C2039: 'list': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(20): note: see declaration of 'std'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.h(70): error C2143: syntax error: missing ';' before '<'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.h(70): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.h(70): error C2238: unexpected token(s) preceding ';'
+  flyingObject.cpp
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\flyingobject.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\flyingobject.cpp(72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\flyingobject.cpp(75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\flyingobject.cpp(78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  game.cpp
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.h(69): error C2039: 'list': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(20): note: see declaration of 'std'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.h(69): error C2143: syntax error: missing ';' before '<'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.h(69): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.h(69): error C2238: unexpected token(s) preceding ';'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.h(70): error C2039: 'list': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(20): note: see declaration of 'std'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.h(70): error C2143: syntax error: missing ';' before '<'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.h(70): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.h(70): error C2238: unexpected token(s) preceding ';'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(27): error C2065: 'asteroids': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(29): error C2065: 'asteroids': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(43): error C2065: 'list': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(43): error C2059: syntax error: '>'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(43): error C2065: 'itRocks': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(43): error C2065: 'asteroids': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(43): error C2059: syntax error: ')'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(44): error C2143: syntax error: missing ';' before 'delete'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(44): error C2065: 'itRocks': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(44): error C2541: 'delete': cannot delete objects that are not pointers
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(46): error C2065: 'list': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(46): error C2059: syntax error: '>'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(46): error C2065: 'itBullets': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(46): error C2065: 'bullets': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(46): error C2059: syntax error: ')'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(47): error C2143: syntax error: missing ';' before 'delete'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(47): error C2065: 'itBullets': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(47): error C2541: 'delete': cannot delete objects that are not pointers
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(75): error C2065: 'asteroids': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(77): error C2065: 'asteroids': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(79): error C2065: 'asteroids': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(85): error C2065: 'list': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(85): error C2059: syntax error: '>'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(85): error C2065: 'itRocks': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(85): error C2065: 'asteroids': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(85): error C2059: syntax error: ')'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(87): error C2065: 'NewAsteroid': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(87): error C2275: 'Rock': illegal use of this type as an expression
+  c:\users\william\documents\byui idaho\cs165\projects\asteroids\rocks.h(35): note: see declaration of 'Rock'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(87): error C2065: 'itRocks': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(87): error C2059: syntax error: ';'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(88): error C2065: 'NewAsteroid': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(90): error C2065: 'NewAsteroid': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(94): error C2059: syntax error: '}'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(94): error C2143: syntax error: missing ';' before '}'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(99): error C2143: syntax error: missing ';' before '{'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(99): error C2447: '{': missing function header (old-style formal list?)
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(125): error C2440: 'initializing': cannot convert from 'const char [11]' to 'char *'
+  c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(125): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(129): error C2065: 'list': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(129): error C2059: syntax error: '>'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(129): error C2065: 'itRocks': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(129): error C2065: 'asteroids': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(129): error C2059: syntax error: ')'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(131): error C2065: 'NewAsteroid': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(131): error C2275: 'Rock': illegal use of this type as an expression
+  c:\users\william\documents\byui idaho\cs165\projects\asteroids\rocks.h(35): note: see declaration of 'Rock'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(131): error C2065: 'itRocks': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(131): error C2059: syntax error: ';'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(133): error C2065: 'NewAsteroid': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(135): error C2065: 'NewAsteroid': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(141): error C2059: syntax error: 'if'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(148): error C2059: syntax error: 'for'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(148): error C2143: syntax error: missing ')' before ';'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(148): error C2143: syntax error: missing ';' before '!='
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(148): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(148): error C2143: syntax error: missing ';' before '++'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(148): error C2086: 'int itBullets': redefinition
+  c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(148): note: see declaration of 'itBullets'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(148): error C2059: syntax error: ')'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(150): error C2143: syntax error: missing ';' before '{'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(150): error C2447: '{': missing function header (old-style formal list?)
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(161): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(161): error C3484: syntax error: expected '->' before the return type
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(161): error C3613: missing return type after '->' ('int' assumed)
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(161): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(161): error C2371: 'shipLocation': redefinition; different basic types
+  c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(160): note: see declaration of 'shipLocation'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(161): error C2146: syntax error: missing ';' before identifier 'setX'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(162): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(162): error C3484: syntax error: expected '->' before the return type
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(162): error C3613: missing return type after '->' ('int' assumed)
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(162): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(162): error C2371: 'shipLocation': redefinition; different basic types
+  c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(160): note: see declaration of 'shipLocation'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(162): error C2146: syntax error: missing ';' before identifier 'setY'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(163): error C2059: syntax error: 'for'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(163): error C2143: syntax error: missing ')' before ';'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(163): error C2143: syntax error: missing ';' before '<'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(163): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(163): error C2143: syntax error: missing ';' before '++'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(163): error C2086: 'int i': redefinition
+  c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(163): note: see declaration of 'i'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(163): error C2059: syntax error: ')'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(163): error C2143: syntax error: missing ';' before '{'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(163): error C2447: '{': missing function header (old-style formal list?)
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(175): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(175): error C3484: syntax error: expected '->' before the return type
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(175): error C3613: missing return type after '->' ('int' assumed)
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(175): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(175): error C2371: 'scoreLocation': redefinition; different basic types
+  c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(174): note: see declaration of 'scoreLocation'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(175): error C2146: syntax error: missing ';' before identifier 'setX'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(176): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(176): error C3484: syntax error: expected '->' before the return type
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(176): error C3613: missing return type after '->' ('int' assumed)
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(176): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(176): error C2371: 'scoreLocation': redefinition; different basic types
+  c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(174): note: see declaration of 'scoreLocation'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(176): error C2146: syntax error: missing ';' before identifier 'setY'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(178): error C2065: 'score': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(178): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(178): error C2365: 'drawNumber': redefinition; previous definition was 'function'
+  c:\users\william\documents\byui idaho\cs165\projects\asteroids\uidraw.h(32): note: see declaration of 'drawNumber'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(183): error C2059: syntax error: '}'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(183): error C2143: syntax error: missing ';' before '}'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(185): error C2143: syntax error: missing ';' before '{'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(185): error C2447: '{': missing function header (old-style formal list?)
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(209): error C2065: 'bullets': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(217): error C2065: 'list': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(217): error C2059: syntax error: '>'
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(217): error C2065: 'bullets': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\game.cpp(217): fatal error C1003: error count exceeds 100; stopping compilation
+  point.cpp
+  rocks.cpp
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\rocks.cpp(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\rocks.cpp(20): error C2065: 'M_PI': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\rocks.cpp(92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\rocks.cpp(93): error C2065: 'M_PI': undeclared identifier
+  ship.cpp
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\ship.cpp(70): error C2065: 'M_PI': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\ship.cpp(71): error C2065: 'M_PI': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\ship.cpp(82): error C2065: 'M_PI': undeclared identifier
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\ship.cpp(83): error C2065: 'M_PI': undeclared identifier
+  uiDraw.cpp
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\uidraw.cpp(184): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\uidraw.cpp(185): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\uidraw.cpp(460): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\uidraw.cpp(459): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\uidraw.cpp(503): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\uidraw.cpp(504): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\uidraw.cpp(512): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\uidraw.cpp(513): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\uidraw.cpp(558): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\william\documents\byui idaho\cs165\projects\asteroids\uidraw.cpp(561): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  uiInteract.cpp
+  velocity.cpp
+  Generating Code...
